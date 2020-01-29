@@ -1,0 +1,29 @@
+Senior Technical Associate, Morgan Stanley.
+
+Worked on Big Data platform, utilizing Apache Spark for Legal Compliance and Corporate Governance processing, analytics, and reporting.
+Build a data pipeline using Spark to migrate data from DB2  to HDFS (Impala tables).
+Implemented tool for persisting near real-time data from Kafka using Spark
+Scala Akka: Created REST API using Akka HTTP and Akka core
+Azure PoC: Applied feasibility, functional and performance testing on Cloudera Altus on Azure environment.
+
+
+Tavant Technologies 	Senior Software Engineer
+Worked on Upgradation of Existing Systems of Experian to a Big data Based Ecosystem(AWS, Spark-Scala, Hive) from IBM Based Ecosystem (DB2, Datastage)
+Worked on an Experian product Strategy Manager (Developed using Java) to integrate Java APIs with Hadoop and Spark2.2 for the clients (Data Scientists) to execute Strategies directly on Apache Spark 2.2 and Scala APIs.
+Worked on Spark Task deployment and maintenance on EMR (AWS) and automation using Lambda(AWS)
+
+
+
+Emids Technologies
+Worked on the creation of a Data Lake system which serves as a source to various other applications with the use of Apache Spark, Scala, Cassandra.
+Worked on a building, publishing customized interactive reports and dashboards using Tableau and SQL server.
+
+
+
+
+Framework : Spark, Hadoop, AKKA-HTTP, Kafka
+Language : Scala, Java, Python
+Tools : Cloudera Manager, Tableau
+Cloud Services: EMR, EC2, Lambda and Step function
+DB : Hive, Cassandra, Postgres, Redshift
+IDE : Intellij, Eclipse
